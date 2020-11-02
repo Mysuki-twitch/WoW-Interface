@@ -1,0 +1,133 @@
+Salve! Belesma?
+Resolvi montar uma lista de TODOS os Addons que eu uso no atual presente momento. A explicação é bem simples e crua, mas acredito que de fácil entendimento!
+A única coisa que eu peço, é pra divulgarem para os abiguinhos de onde e quem vocês pegaram essa lista =)
+Vai me ajudar PRA UM CARAMBA! <3 <3 <3
+E não se esqueçam de seguir lá!  ~  twitch.tv/mysuki_
+
+
+
+ ~ *Ace3* 
+ ~ *AceGUI-3.0: SFX Widgets*
+> Usados para configurações diversas em addons <
+
+
+~ AdvancedInterfaceOptions 
+> Há algumas expansões atrás, a Blizzard removeu certas opções no Esc > Interface e em alguns outros lugars,
+esse addon restaura todas elas e isso ajuda MUITO <
+
+
+~ AtlasLoot Enhanced
+> Serve como um mini database dentro do jogo, onde você tem acesso aos itens de todas as facções, eventos, itens lendários, garrison e outros. Tem praticamente o dobro de itens que o próprio Journal da Blizzard <
+
+
+~ Bagnon
+> Como diz o nome, é um addon para as Bags! Ele junta todas as bags em uma única, mais prática e totalmente customizável <
+
+
+~ *BattleGroundEnemies*
+> Quando você entrar em uma BG (e apenas lá dentro) esse addon adicionará um frame novo mostrando todos os inimigos do outro time, dizendo quais as classes e specs deles. Isso é útil pois você consegue ver quem está próximo, dar calls para qual deve ser focado ou quem está mais próximo de morrer < 
+
+
+~ BigWigs Bossmods | *BigWigs_BurningCrusade* | *BigWigs_WrathOfTheLichKing* | *BigWigs_Cataclysm* | *BigWigs_MistsOfPandaria* | *BigWigs_WarlordsOfDraenor* | *BigWigs_Legion* |
+*BigWigs_Countdown_Overwatch* | BigWigs_Countdown_HeroesOfTheStorm*
+> BigWigs é um addon qual a funcionalidade dele serve para mostrar quais habilidades o Boss vai usar, quanto tempo falta para tal habilidade ser usada. Esse addon é praticamente OBRIGATÓRIO ser usado para quem pretende ou já tem um grupo de Raid. As versões marcadas com um * não são obrigatórias. Eu realmente tenho pq quero ter, mas talvez algumas sejam úteis pra farmar alguns achievements antigos de boss que você precisa dar tracking em quantidade e tempo de skills <
+
+
+~ *Capping Battleground Timers*
+> outro addon focado pra PvP que serve pra dar tracking em quanto tempo falta quando os times capturam um objetivo da BG <
+
+
+~ Details! Damage Meter
+> addon com a funcionalidade de mostrar quando de dano e/ou cura você ou o seu grupo deu em uma determinada luta, mostrando também quais e quantas vezes as skills foram usadas, seja por você ou o seu grupo. Ele atualiza conforme o decorrer da luta, salva logs antigos pra rever resultados e outras funções como quantas vezes pessoa X morreu, quem realmente deu interrupt e etc. <
+
+
+~ DynamicCam
+> addon um pouco complexo de se configurar. Ele é focado apenas para funções da camera! Você consegue ajustar um ângulo melhor para o seu personagem, arrastar a camera para os lados e possivelmente montar até um formato RPG single player de consoles. Vale MUITO a pena baixar e configurar pq quando pega o jeito, o jogo fica INCRÍVEL e nem parece um MMORPG! <
+
+
+~ ElvUI 
+> Este addon muda a interface padrão INTEIRA da Blizzard. Frames de player, party, raid, actionbars, minimap, chat, TUDO! Inclusive mudar TUDO de lugar, frame por frame. O lado bom dele que caso você goste de algo padrão blizz, ele te dá a opção de desativar a do addon e retornar para o padrão sem problemas! É um addon bem completo e ao mesmo tempo meio complexo de começo <
+
+
+~ *Elvui_mMediaTag*
+> addon complementar ao ElvUI que adiciona mais tags para as configurações customizadas que o addon te permite criar <
+
+
+~ *ElvUI CustomMedia*
+> addon complementar ao Elvui que adiciona novas fonts e te permite registrar fontes que você tenha salvo ou queira baixar de outro lugar <
+
+
+~ *Elvui AddonSkins*
+> addon complementar ao Elvui que adiciona novas skins para certos elementos da interface, como o Menu, aba de profissões, inspect no algo e etc < 
+
+
+~ Exorsus Raid Tools
+> addon focado para raids, principalmente para líderes do grupo. Ele permite trackear todos os cooldowns que estejam prontos do grupo, permitindo assim ter uma ideia melhor de qual CD está Up pra ser usado naquele momento. Ele permite adicionar outros comandos úteis e compartilhar pra todos do grupo que tiver o addon, mas vai depender da luta do boss se realmente for necessário.
+
+
+~ GW2 ui
+> outro addon que troca TOTALMENTE a interface da blizzard e coloca a interface do jogo Guild Wars 2 dentro do WoW. Bem simples, bonito e fácil de customizar! < 
+
+
+~ HandyNotes
+> addon focado para os MAPAS! Ele adiona marcações onde você quiser (caso você queira lembrar onde fica algo de interessante que você viu). Tem bastante addons complementares a ele como marcações de onde tem todos os baús do mapa, todos os raros e etc. <
+
+
+~ Immersion
+> addon usado pra mudar a interface de interação com os NPCs e Quests! Addon bem minimalistico, permitindo você esconder totalmente a sua interface na hora de interagir com o NPC e ler a quest que ele te oferece. Addon 100% ideal pra quem joga no controle, como eu <
+
+
+~ LittleWigs
+> addon com a MESMA funcionalidade que o BigWigs, porém este é para dungeons! <
+
+
+~ *Masque*
+> addon que permite mudar a aparência de alguns menus dentro do jogo, funciona como uma skin <
+
+
+~ MoveAnything
+> permite você mover TODO e QUALQUER frame que esteja na tela que por padrão, é bloqueado e/ou não tem opção de mover <
+
+
+~ *OmniCC*
+> addon que adiciona texto nos itens, spells e habilidades que esteja em Cooldown, mostrando quando tempo falta pra eles estarem prontas novamente < 
+
+
+~ Pawn
+> addon que mostra quando um item novo é melhor ou não do que você tá usando. Ele tem uma medida de pesos padrão dos status, mas você pode alterar da maneira que você quiser <
+
+
+~ *Raider.IO*
+> addon para quem faz Mythic+ mas que também serve para raids. Funciona como um "ranking", quanto maior a dificuldade da sua pedra, maior será a tua pontuação. Você atualiza ela pelo site ou espera eles lançarem um update. Quando você pega a tooltip de uma pessoa com o addon mostra o score de M+ e também a progressão da Raid caso ela tenha um core <
+
+
+~ Rarity
+> addon super util para farmar mounts, pets e toys! Avisa quando um NPC dropa um deles, quantas tentativas você já teve ou se você já tem <
+
+
+~ *RCLootCouncil*
+> addon para grupos de raid, serve pra quem participa de um core que use o sistema de council, que facilita na hora de distribuição de loots <
+
+
+~ *RSA - Raeli's Spell Announcer*
+> addon com a funcionalidade de anunciar via chat, whisp, chat de raid, raid warning quando você usar determinada habilidade! Seja um interrupt, um battle ress ou um buff no alvo. <
+
+
+~ SharedMedia
+> addon que serve como database pra diversas medias para addons <
+
+
+~ *SharedMediaAdditionalFonts* 
+> como o nome diz, ele adiciona mais fonts ainda para o SharedMedia <
+
+
+~ TomTom
+> excelente addon de mapa que adiciona coordenadas e serve também para você seguir coordenadas que amigos te passem, por exemplo. Bem útil pra localição. <
+
+
+~ *VuhDo*
+> addon de healer que adiciona frames de grupo onde você pode usar diversas binds de cura que facilita ABSURDAMENTE a cura <
+
+
+~ *WeakAuras*
+> addon que você pode customizar todas e quantas auras você quiser. É um addon bem complexo para iniciantes. <
